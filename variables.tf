@@ -1,4 +1,4 @@
-variable ami_name {
+variable ami_id {
   type        = string
   default     = ""
   description = "Proved AMI id"
